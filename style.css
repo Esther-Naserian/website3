@@ -1,0 +1,222 @@
+#container1{
+display: flex;
+justify-content:space-evenly;
+}
+#nav{
+display: flex;
+justify-content: space-between;
+text-decoration: none;
+gap: 10%;
+justify-content: center;
+}
+button2{
+background-color: blue;
+border-radius: 20px;
+width: 50%;
+
+}
+#button7{
+border-radius: 20px;
+width: 20%;
+
+
+}
+#button8{
+border-radius: 20px;
+width: 20%;
+}
+#button10{
+border-radius: 20px;
+width: 50%;
+}
+#button15{
+border-radius: 20px;
+width: 50%;
+background-color: grey;
+}
+#button16{
+    border-radius: 20px;
+    background-color: blue;
+    width: 50%;
+    
+}
+#button17{
+    border-radius: 20px;
+    background-color: grey;
+    width: 50%;
+}
+
+
+
+
+
+
+button{
+background-color: blue;
+border-radius: 60%;
+height: 5vh;
+width:90%
+
+}
+
+h2{
+color: red;
+margin-left: 10%;
+
+}
+h1{
+margin-left: 10%;
+}
+p{
+    margin-left:10%
+} 
+.text{
+justify-content: right;
+margin-left: 10%;
+
+}
+#page2{
+justify-content: space-evenly;
+display: flex;
+margin-left: 10%;
+
+}
+#image{
+display: flex;
+
+}
+#page3{
+display: flex;
+justify-content:space-evenly
+
+}
+.text2{
+justify-content: right;
+}
+.images12{
+    
+    justify-content: right; 
+    border-radius: 50%;
+    border: 1px solid;
+    justify-content: space-around;
+
+    
+}
+#container2{
+display: flex;
+justify-content: space-evenly;
+
+}
+#page5{
+justify-content: center;
+position: absolute center;
+position: center;
+display: flex;
+
+}
+#pricing{
+    justify-content: center;
+    position: absolute center;
+
+
+}
+span{
+color: red;
+}
+.button{
+width: 50%;
+border-radius: 60%;
+}
+.start1{
+  display: flex;  
+  justify-content:space-evenly;
+  position: absolute center;
+}
+#numbers{
+display: flex;
+justify-content: space-evenly;
+position: absolute center;
+}
+#one{
+    display: flex;
+    justify-content: space-evenly;
+    position:absolute center
+} 
+#five{
+display: flex;
+justify-content: center;
+position: absolute center;
+}
+#five2{
+display: flex;
+justify-content: center;
+position: absolute center;
+}
+#page6{
+display: flex;
+justify-content: space-between;
+}
+#page7{
+display: flex;
+justify-content: center;
+position: absolute center;
+}
+#wording{
+display: flex;
+justify-content: center;
+position: absolute center;
+font-size: large;
+}
+#page10{
+display: flex;
+justify-content: space-evenly;
+position: absolute center;
+}
+#page14{
+display :flex;
+justify-content: space-between;
+
+}
+@media all and (max-width:500px){
+    body
+}
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
